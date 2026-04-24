@@ -11,3 +11,12 @@
     border: 5px solid black;
 }
 
+.challenge-box-1 {
+    background-color: greenyellow;
+    width: 100vw;
+    height: 30vh;
+    display: block;
+    color:green;
+    border: 10px solid green;
+}
+
