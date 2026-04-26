@@ -20,3 +20,142 @@
     border: 10px solid green;
 }
 
+.challenge-box-2 {
+    background-color: orange;
+    width: 100vw;
+    height: 30vh;
+    display: block;
+    color:orangered;
+    border: 10px solid orangered;
+}
+
+.challenge-box-3 {
+    background-color: skyblue;
+    height: 30vh;
+    width: 100vw;
+    display:block;
+    color:blue;
+    border: 10px solid blue;
+}
+
+
+.challenge-html {
+    background-color: green;
+    color:aliceblue;
+    width: 18vw;
+    height: 5vh;
+    display: inline-block;
+}
+
+.challenge-css {
+    background-color: blue;
+    color:aliceblue;
+    width: 18vw;
+    height:5vh;
+    display:inline-block;
+}
+
+.challenge-javascript {
+    background-color: blueviolet;
+    color:aliceblue;
+    width:18vw;
+    height:5vh;
+    display:inline-block;
+}
+
+.challenge-design {
+    background-color: deeppink;
+    color:aliceblue;
+    width:18vw;
+    height:5vh;
+    display: inline-block;
+}
+
+.challenge-layout {
+    background-color: orange;
+    color:aliceblue;
+    width:18vw;
+    height:5vh;
+    display:inline-block;
+}
+
+
+.challenge-3 {
+    color: azure;
+    background-color: darkblue;
+    width: 100vw;
+    height: 20vh;
+    display: inline-block;
+}
+
+.challenge-3-home {
+    background-color: green;
+    width:20vw;
+    height: 10vh;
+    display: inline;
+}
+
+.challenge-3-others {
+    width:20vw;
+    height:10vh;
+    display:inline;
+}
+
+
+.challenge-4 {
+    display: inline-block;
+}
+
+.challenge-4-card1 {
+    background-color: greenyellow;
+    color: green;
+    border:10px solid green;
+    width: 30vw;
+    height: 45vh;
+    display: inline-block;
+}
+
+.challenge-4-card2 {
+    background-color: skyblue;
+    color:blue;
+    border:10px solid blue;
+    width:30vw;
+    height: 45vh;
+    display: inline-block;
+}
+
+.challenge-4-card3 {
+    background-color: plum;
+    color:deeppink;
+    border: 10px solid deeppink;
+    width: 30vw;
+    height:45vh;
+    display: inline-block;
+}
+
+.challenge-4-card4 {
+    background-color: orange;
+    color: orangered;
+    border: 10px solid orangered;
+    width: 30vw;
+    height:45vh;
+    display: inline-block;
+}
+
+.challenge-4-card5 {
+    background-color:violet;
+    color: blueviolet;
+    border: 10px solid blueviolet;
+    width: 30vw;
+    height: 45vh;
+    display: inline-block;
+}
+
+.challenge-4-card6 {
+    background-color: yellow;
+    color:burlywood;
+    border:10px solid burlywood;
+    width: 30vw;
+    height: 45vh;
+    display: inline-block;
+}
